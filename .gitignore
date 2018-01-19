@@ -1,0 +1,15 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.osm
+
+*.json
+
+*.bz2
+
+*.png
+
+*.zip
+
+*.html
+
+*.py
