@@ -3,4 +3,6 @@ Curitiba is one of Brazil's Capital, located in the south area and for this reas
 
 This project was developed during the **Data Analyst Nanodegree** course from [**Udacity**](http://udacity.com/) and it used [**Open Street Map**](https://www.openstreetmap.org/) data.
 
+Want to see what I did? Click [here](P3 - Report.ipynb)!
+
 LINK: https://www.openstreetmap.org/relation/297514#map=11/-25.4950/-49.2208
